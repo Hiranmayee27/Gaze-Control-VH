@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.soupday.cc3_unity_tools": {
-      "version": "file:C:/Users/Varun/Desktop/cc_unity_tools_fixed.tgz",
+      "version": "file:C:/Users/himay/Downloads/cc_unity_tools_fixed.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {
